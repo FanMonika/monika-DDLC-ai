@@ -1,0 +1,6 @@
+mss
+pygame>=2.6
+pystray
+requests
+urllib3
+Pillow
